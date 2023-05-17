@@ -6,12 +6,15 @@
   font-family: aktifoa-bold;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-bold.otf");
   font-display: swap;
+  font-weight: bold;
+
 }
 
 @font-face {
   font-family: aktifoa-medium;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-medium.otf");
   font-display: swap;
+  font-weight: medium;
 }
 
 @font-face {
@@ -24,6 +27,7 @@
   font-family: aktifoa-light;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-light.otf");
   font-display: swap;
+  font-weight: light;
 }
 
 @font-face {
