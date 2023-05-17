@@ -5,46 +5,55 @@
 @font-face {
   font-family: aktifoa-bold;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-bold.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-medium;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-medium.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-book;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-book.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-light;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-light.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-bookoblique;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-bookoblique.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-lightoblique;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-lightoblique.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-mediumoblique;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-mediumoblique.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-semibold;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-semibold.otf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: aktifoa-semiboldoblique;
   src: url("./assets/Avery\ Dennison\ Fonts/aktifoa-semiboldoblique.otf");
+  font-display: swap;
 }
 
 * {
